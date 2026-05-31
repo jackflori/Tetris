@@ -1,2 +1,2 @@
-# Tetris-CMU-
+# Tetris-CMU
 Famous puzzle game clone 
