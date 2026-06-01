@@ -1,4 +1,4 @@
-# Tetris-CMU
+# Tetris
 Famous puzzle game clone 
 
 Utilized CMU Graphics’ model-view-controller framework.
