@@ -3,4 +3,4 @@ Famous puzzle game clone
 
 Utilized CMU Graphics’ model-view-controller framework.
 
-Play here: https://academy.cs.cmu.edu/sharing/orangeRedGoat760842
+[Play Now](https://academy.cs.cmu.edu/sharing/orangeRedGoat760842)
